@@ -1,0 +1,12 @@
+---
+galaxy_info:
+  role_name: jenkins
+  author: Ehtishamul Hassan
+  description: "Installs Jenkins and Apache Maven with Java 21 on Amazon Linux"
+  license: MIT
+  platforms:
+    - name: EL
+      versions:
+        - 7
+        - 8
+
